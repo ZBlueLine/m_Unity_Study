@@ -1,0 +1,7 @@
+ManifestFileVersion: 0
+CRC: 2573790262
+AssetBundleManifest:
+  AssetBundleInfos:
+    Info_0:
+      Name: myabpack
+      Dependencies: {}
